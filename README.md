@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 | Phase | Task | Weeks | Status |
 |-------|------|-------|--------|
-| 1 | Literature review, dataset acquisition & problem refinement | 1–2 | Done |
+| 1 | Literature review, dataset acquisition & problem refinement | 1–2 | Complete |
 | 2 | Data preprocessing, feature engineering & graph dataset construction | 3–4 | ⏳ Pending |
 | 3 | Multi-architecture training & comparison | 5–8 | ⏳ Pending |
 | 4 | Explainability integration on selected model | 9–10 | ⏳ Pending |
