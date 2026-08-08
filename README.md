@@ -64,11 +64,12 @@ pip install -r requirements.txt
 
 | Phase | Task | Weeks | Status |
 |-------|------|-------|--------|
-| 1 | Literature Review | 1 to 3 | In Progress |
-| 2 | Design and Architecture | 4 to 5 | Pending |
-| 3 | Implementation | 6 to 10 | Pending |
-| 4 | Evaluation | 11 to 13 | Pending |
-| 5 | Writing and Analysis | 14 to 15 | Pending |
+| 1 | Literature review, dataset acquisition & problem refinement | 1–2 | Done |
+| 2 | Data preprocessing, feature engineering & graph dataset construction | 3–4 | ⏳ Pending |
+| 3 | Multi-architecture training & comparison | 5–8 | ⏳ Pending |
+| 4 | Explainability integration on selected model | 9–10 | ⏳ Pending |
+| 5 | LLM Integration for Model Interpretation and Investigation | 11–12 | ⏳ Pending |
+| 6 | Analysis, results write-up & final report | 13–15 | ⏳ Pending |
 
 
 ## Tech Stack
