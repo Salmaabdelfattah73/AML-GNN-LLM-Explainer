@@ -23,7 +23,7 @@ This project builds an explainable AI system that uses Large Language Models (LL
 ---
 
 ## 🏗️ Project Structure
-project/
+``` project/
 ├── data/
 │ ├── raw/ ← Original dataset
 │ └── processed/ ← Cleaned data
@@ -36,8 +36,8 @@ project/
 ├── notebooks/ ← Experiments
 ├── tests/ ← Unit Tests
 └── docs/ ← Documentation
+```
 
----
 
 ## 🚀 Getting Started
 
