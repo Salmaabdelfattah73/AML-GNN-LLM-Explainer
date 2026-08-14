@@ -22,6 +22,10 @@ This project builds an explainable AI system that uses Large Language Models (LL
 
 ---
 
+## 🏛️ Architecture
+
+![System Architecture](./docs/aml_fraud_assistant_architecture.png)
+
 ## 🏗️ Project Structure
 ``` project/
 ├── data/
