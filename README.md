@@ -1,4 +1,4 @@
-#AML-GNN-LLM-Explainer
+# AML-GNN-LLM-Explainer
 > M.S. in Computer Science — Master Project
 
 ## 📋 Project Overview
