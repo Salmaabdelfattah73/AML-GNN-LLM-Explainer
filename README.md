@@ -50,8 +50,8 @@ This project builds an explainable AI system that uses Large Language Models (LL
 
 ### Installation
 ```bash
-git clone https://github.com/Salmaabdelfattah73/Evidence-Grounded-LLM-Explanations-for-Graph-Neural-Network-Based-Money-Laundering-Detection.git
-cd Evidence-Grounded-LLM-Explanations-for-Graph-Neural-Network-Based-Money-Laundering-Detection
+git clone https://github.com/Salmaabdelfattah73/AML-GNN-LLM-Explainer.git
+cd AML-GNN-LLM-Explainer
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
