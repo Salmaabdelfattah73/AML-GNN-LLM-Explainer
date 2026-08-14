@@ -1,5 +1,4 @@
-# Evidence-Grounded LLM Explanations for GNN-Based Money Laundering Detection
-
+#AML-GNN-LLM-Explainer
 > M.S. in Computer Science — Master Project
 
 ## 📋 Project Overview
