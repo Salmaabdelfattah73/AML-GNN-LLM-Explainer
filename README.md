@@ -13,7 +13,7 @@ This project builds an explainable AI system that uses Large Language Models (LL
 | Salma Abdelfattah | Data & Graph | @Salmaabdelfattah73 |
 | Bassam | GNN Model & Explainer | @bssam99 |
 | Khaled Ashouh | LLM & Evaluation | @khaledAshouh |
-| Magdy | Backend & Frontend | @Magdy |
+| Magdy | Backend & Frontend | @Ma7mednafea |
 
 ## 👨‍🏫 Supervisor
 - Supervisor: Anwar Hossain
