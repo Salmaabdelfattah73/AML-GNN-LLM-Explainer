@@ -19,9 +19,10 @@ test: adding tests
 refactor: code refactoring
 
 ## Pull Request Rules
-- Direct pushes to main are currently allowed (no PR/review required) while the team is in early development
-- Please still write a clear commit message describing what changed
-- This may be re-enabled with PR + review requirements once the team moves into active development
+- Always branch from develop
+- No direct push to main
+- Minimum 1 review required
+- All tasks must be checked before merge
 
 
 ## Team Workflow
